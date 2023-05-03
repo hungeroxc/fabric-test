@@ -11,6 +11,10 @@ from 'react'
 class InternalCanvas extends Component {
     containerRef = createRef()
 
+    componentDidMount() {
+        
+    }
+
     render() {
         return (
             <div
